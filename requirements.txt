@@ -1,10 +1,10 @@
-streamlit==1.32.0
-tensorflow-cpu==2.12.0
-numpy==1.23.5
-pandas==1.5.3
-scikit-learn==1.2.2
+streamlit
+tensorflow
+scikit-learn
 openmeteo-requests
 requests-cache
 retry-requests
 plotly
 joblib
+numpy
+pandas
