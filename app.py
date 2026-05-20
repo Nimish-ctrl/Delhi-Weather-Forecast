@@ -1,3 +1,8 @@
+import sys
+import streamlit as st
+
+st.write(sys.version)
+
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
